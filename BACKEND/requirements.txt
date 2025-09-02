@@ -1,0 +1,13 @@
+fastapi
+nest_asyncio
+pyngrok
+uvicorn
+pytesseract
+Pillow
+PyMuPDF
+easyocr
+sentence-transformers
+faiss-cpu
+numpy
+groq
+python-multipart
